@@ -14,6 +14,7 @@ gem 'backbone-on-rails'
 gem 'bootstrap-sass'
 gem 'font-awesome-rails'
 gem 'jquery-ui-rails'
+gem 'rails_12factor', group: :production
 
 
 group :doc do
