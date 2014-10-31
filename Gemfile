@@ -15,6 +15,7 @@ gem 'bootstrap-sass'
 gem 'font-awesome-rails'
 gem 'jquery-ui-rails'
 gem 'rails_12factor', group: :production
+gem 'turbolinks'
 
 
 group :doc do
